@@ -19,10 +19,6 @@ def names():
     return str(res)
 
 
-
-
-#    return str(exec_query('SELECT * FROM customers;'))
-
 if __name__ == "__main__":
     app1.run()
 
